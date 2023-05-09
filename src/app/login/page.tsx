@@ -28,7 +28,7 @@ function page() {
           <Stack spacing={{ base: '2', md: '3' }} textAlign="center">
             <Heading size={{ base: 'xs', md: 'sm' }}>Log in to your account</Heading>
             <HStack spacing="1" justify="center">
-              <Text color="muted">Don't have an account?</Text>
+              <Text color="muted">Don&apos;t have an account?</Text>
               <Button variant="link" colorScheme="blue">
                 Sign up
               </Button>

@@ -11,7 +11,7 @@ export const AboutContainer = () => {
         </chakra.h3>
         <Flex color='white' alignItems={'center'} flexDirection={'row'} gap={10}>
             <Box >
-                <Text color={'black'}>Traduit de l'anglais-Les termes foobar, foo, bar, baz et autres sont utilisés comme variables métasyntaxiques et noms d'espace réservé dans la programmation informatique ou la documentation</Text>
+                <Text color={'black'}>Traduit de l&apos;anglais-Les termes foobar, foo, bar, baz et autres sont utilisés comme variables métasyntaxiques et noms d&apos;espace réservé dans la programmation informatique ou la documentation</Text>
             </Box>
             <Box 
                 maxWidth={'200px'}  
